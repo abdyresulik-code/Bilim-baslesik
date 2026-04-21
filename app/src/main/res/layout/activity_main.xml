@@ -33,7 +33,6 @@
             android:layout_height="52dp"
             android:background="@drawable/input_bg"
             android:hint="192.168.x.x"
-            android:hintTextColor="#555555"
             android:textColor="#ffffff"
             android:textSize="16sp"
             android:paddingStart="16dp"
